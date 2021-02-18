@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Football
+namespace Football.Data.Interfaces
 {
-    public class Class1
+    interface IPlayersRepository
     {
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Aleksandr\source\A-Level\FootballEfConsole\FootballEfConsole\bin\Debug\FootballEfConsole.exe.config
+C:\Users\Aleksandr\source\A-Level\FootballEfConsole\FootballEfConsole\bin\Debug\FootballEfConsole.exe
+C:\Users\Aleksandr\source\A-Level\FootballEfConsole\FootballEfConsole\bin\Debug\FootballEfConsole.pdb
+C:\Users\Aleksandr\source\A-Level\FootballEfConsole\FootballEfConsole\obj\Debug\FootballEfConsole.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\A-Level\FootballEfConsole\FootballEfConsole\obj\Debug\FootballEfConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\A-Level\FootballEfConsole\FootballEfConsole\obj\Debug\FootballEfConsole.exe
+C:\Users\Aleksandr\source\A-Level\FootballEfConsole\FootballEfConsole\obj\Debug\FootballEfConsole.pdb
